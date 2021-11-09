@@ -1,7 +1,4 @@
 Pastor
 Ejer4
-<<<<<<< HEAD
 user1
-=======
 user2
->>>>>>> d680ee0cf16759ac17c6898b21ada9ef2cbf1486
